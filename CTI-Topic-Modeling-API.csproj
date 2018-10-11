@@ -108,6 +108,8 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\CTITopicModelingWebAPI - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\topicmodelingapi - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\topicmodelingapi - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
